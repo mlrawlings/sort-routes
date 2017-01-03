@@ -1,0 +1,19 @@
+{
+  "name": "sort-routes",
+  "version": "1.0.0",
+  "description": "sort routes by specificity",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Michael Rawlings <ml.rawlings@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "memoize-id": "^0.2.0",
+    "stable": "^0.1.5"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
